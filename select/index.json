@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "卒業の唄 ～アリガトウは何度も言わせて～",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-22T05:57:19.889108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "卒業の唄 ～アリガトウは何度も言わせて～",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_卒業の唄_~アリガトウは何度も言わせて~_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "卒業の唄 ～アリガトウは何度も言わせて～",
+      "artist": "GRe4N BOYZ",
+      "has_synced": true,
+      "path": "select/02_卒業の唄_~アリガトウは何度も言わせて~_GRe4N_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "卒業の唄 ~アリガトウは何度も言わせて~",
+      "artist": "グリーン",
+      "has_synced": true,
+      "path": "select/03_卒業の唄_~アリガトウは何度も言わせて~_グリーン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "卒業の唄 ～アリガトウは何度も言わせて～",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_卒業の唄_~アリガトウは何度も言わせて~_GReeeeN.txt"
+    }
+  ]
+}
